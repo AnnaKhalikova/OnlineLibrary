@@ -1,0 +1,17 @@
+/* @import '@angular/material/prebuilt-themes/deeppurple-amber.css'; */
+html,
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+#viewer .ebup-container {
+  overflow-x: hidden !important;
+}
+
+* {
+  box-sizing: border-box;
+}
